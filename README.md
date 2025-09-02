@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ujjwal Jain  
 
-Master of Business and Technology @Purdue University | 🚀 Ex-Founder @ [Starportal Software LLP](https://github.com/starportalco) | 💻 Software Engineer | 🌐 Cloud Developer (AWS Certified)  
+MBT @Purdue University | 🚀 Ex - Founder @ [Starportal Software LLP](https://github.com/starportalco) | 💻 Software Engineer | Cloud Developer (AWS Certified)  
 
 I’m a software engineer with **6+ years of experience** building distributed systems, low-latency backends, and real-time data pipelines. My work has powered **2M+ users** across trading, blockchain, and consumer platforms. I specialize in **high-throughput APIs, database optimization, and event-driven architectures**.  
 
@@ -16,36 +16,30 @@ I’m a software engineer with **6+ years of experience** building distributed s
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, Java, C/C++, JavaScript, TypeScript  
-**Frameworks:** Node.js, React, Spring Boot, TensorFlow, PyTorch, LangChain  
-**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis  
-**Cloud & DevOps:** AWS, GCP, Azure, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
-**Other:** Microservices, APIs, gRPC, WebSockets, Kafka, CloudWatch  
+## 🛠️ Key Skills
+
+**Languages/Frameworks:** Python, Java, C/C++, JavaScript, TypeScript, Node.js, React, Spring Boot, TensorFlow, PyTorch, LangChain, Microservices, APIs  
+**Databases & DevOps:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, AWS, GCP, Azure, Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Git, Jira, Confluence, JUnit, CloudWatch  
+
+---
+
+## 🚀 Certifications
+- AWS – Certified Cloud Practitioner  
+- Google – Project Management Professional Certificate  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### ⚡ Thunder Wallet  
-A **smart account wallet on Polygon** supporting **ERC-4337** with custom paymaster.  
-- 💳 Transfer USDC and pay gas fees directly in USDC  
-- 🔐 Secure transactions with account abstraction  
-- 🌉 Built to make Web3 more accessible and user-friendly  
+### 📡 Pulse, AI Healthcare Assistant App  
+- Developed an **AI-driven healthcare assistant** leveraging OpenAI LLMs for virtual consultations, symptom triage, and automated medical report analysis  
+- Integrated **HIPAA-compliant APIs** for secure storage  
+- Piloted with **5K+ users**  
 
-### 📡 Pulse  
-A **real-time analytics and messaging platform** for high-frequency trading & blockchain infra.  
-- ⚡ Processes **1M+ messages/day** with sub-100ms latency  
-- 🔒 Secure authentication (2FA/TOTP, JWTs with RBAC, audit trails)  
-- 📊 High-throughput APIs and streaming layer for financial data pipelines  
-
----
-
-## 📊 GitHub Stats  
-
-![Ujjwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal451&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal451&layout=compact&theme=radical)  
+### ⚡ Thunder Wallet, Unified Digital Payments App (Jan 2022 – Apr 2025)  
+- Developed a **non-custodial wallet** with email-based authentication via Privy  
+- Unified **UPI, bank, and stablecoin payments** into a single interface  
+- Won **Best UI/UX Award at Hackathon 2022**
 
 ---
 
@@ -53,5 +47,3 @@ A **real-time analytics and messaging platform** for high-frequency trading & bl
 - 🌐 [Portfolio](https://ujworks.xyz)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ujwlj/)  
 - ✉️ [ujjwal451@gmail.com](mailto:ujjwal451@gmail.com)  
-
----
