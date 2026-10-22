@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ujjwal Jain  
 
-MBT @Purdue University | 🚀 Ex - Founder @ [Starportal Software LLP](https://github.com/starportalco) | 💻 Software Engineer | Cloud Developer (AWS Certified)  
+Senior AI Engineer | MBT @Purdue University | 🚀 Ex - Founder @ [Starportal Software LLP](https://github.com/starportalco) | 💻 Software Engineer | Cloud Developer (AWS Certified)  
 
 I’m a software engineer with **6+ years of experience** building distributed systems, low-latency backends, and real-time data pipelines. My work has powered **2M+ users** across trading, blockchain, and consumer platforms. I specialize in **high-throughput APIs, database optimization, and event-driven architectures**.  
 
